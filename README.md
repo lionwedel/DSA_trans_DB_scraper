@@ -33,28 +33,28 @@ scraper(platform_name, from_date, to_date, download_directory, full = full, chun
 
 Complete list of platforms and the way they would have to be written (as of 5.11.24)
 
-A: Akciós-újság.hu | AliExpress | Amazon Store | App Store | Auctronia
-B: Badoo | BlaBlaCar | Bolha.com | Booking.com | Bumble
-C: Campfire | Canva | Cdiscount | Chrome Web Store | Conrad
-D: Daft.ie | Discord Netherlands B.V. | Doctolib | DoneDeal.ie
-E: EMAG.BG | EMAG.HU | EMAG.RO | EMimino.cz
-F: Facebook | Fashiondays.ro | Flights | Flourish
-G: Glassdoor | Google Maps | Google Play | Google Shopping | Groupon
-H: Használtautó.hu | Hírstart | Horizon | Hotels
-I: Idealo | IMDb | Imovirtual | Ingatlan.com | Instagram
-K: Kaggle | Kleinanzeigen
-L: La Redoute | Ligaportal | LinkedIn
-M: Meetic SAS | Mobile.de | Nebenan.de
-N: Njuškalo.hr | Nosalty
-O: OLX | OTTO Market
-P: Parship | Pinterest | Pornhub | Pub.dev
-Q: Quest Store
-R; Rajče | Rakuten | Reddit | Roblox
-S: SFDC Ireland Limited | Shein | SIA "JOOM" | Snapchat | Standvirtual | Startlap | Stripchat
-T: TAZZ | Telia Yhteisö | Temu | Tenor | Threads | TikTok | Tripadvisor | Trustpilot
-U: Uber
-V: Vacation Rentals | Vareni.cz | Vinted UAB | VSCO
-W: Wallapop | Waze | WhatsApp Channels | Willhaben internet service GmbH & Co KG
-X: X
-Y: YouTube
-Z: Zalando
+- A: Akciós-újság.hu | AliExpress | Amazon Store | App Store | Auctronia
+- B: Badoo | BlaBlaCar | Bolha.com | Booking.com | Bumble
+- C: Campfire | Canva | Cdiscount | Chrome Web Store | Conrad
+- D: Daft.ie | Discord Netherlands B.V. | Doctolib | DoneDeal.ie
+- E: EMAG.BG | EMAG.HU | EMAG.RO | EMimino.cz
+- F: Facebook | Fashiondays.ro | Flights | Flourish
+- G: Glassdoor | Google Maps | Google Play | Google Shopping | Groupon
+- H: Használtautó.hu | Hírstart | Horizon | Hotels
+- I: Idealo | IMDb | Imovirtual | Ingatlan.com | Instagram
+- K: Kaggle | Kleinanzeigen
+- L: La Redoute | Ligaportal | LinkedIn
+- M: Meetic SAS | Mobile.de | Nebenan.de
+- N: Njuškalo.hr | Nosalty
+- O: OLX | OTTO Market
+- P: Parship | Pinterest | Pornhub | Pub.dev
+- Q: Quest Store
+- R: Rajče | Rakuten | Reddit | Roblox
+- S: SFDC Ireland Limited | Shein | SIA "JOOM" | Snapchat | Standvirtual | Startlap | Stripchat
+- T: TAZZ | Telia Yhteisö | Temu | Tenor | Threads | TikTok | Tripadvisor | Trustpilot
+- U: Uber
+- V: Vacation Rentals | Vareni.cz | Vinted UAB | VSCO
+- W: Wallapop | Waze | WhatsApp Channels | Willhaben internet service GmbH & Co KG
+- X: X
+- Y: YouTube
+- Z: Zalando
