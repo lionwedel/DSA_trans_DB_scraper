@@ -22,7 +22,7 @@ def init_platforms_dict(base_url):
 
         # Print platform options
         #print("Platforms for wich you can download data:")
-        #print(platform_id_dict.keys())
+        print(platform_id_dict.keys())
         
     else:
         print(f"Failed to fetch the page. Status code: {response.status_code}")
